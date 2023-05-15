@@ -1,0 +1,13 @@
+127.0.0.1 - - [15/May/2023:11:23:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:24:02 +0530] "GET /JustOrganicOnlineProject/jsp/index.jsp HTTP/1.1" 200 8578
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:24:15 +0530] "GET /JustOrganicOnlineProject/jsp/login.jsp HTTP/1.1" 200 8272
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:24:18 +0530] "GET /JustOrganicOnlineProject/images/a.jpg HTTP/1.1" 200 81201
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:24:52 +0530] "POST /JustOrganicOnlineProject/lc HTTP/1.1" 200 9281
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:00 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:01 +0530] "GET /JustOrganicOnlineProject/jsp/addProduct.jsp HTTP/1.1" 200 9140
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:12 +0530] "GET /JustOrganicOnlineProject/pc HTTP/1.1" 200 10693
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:19 +0530] "GET /JustOrganicOnlineProject/pic?productid=48 HTTP/1.1" 200 16129
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:19 +0530] "GET /JustOrganicOnlineProject/pic?productid=10 HTTP/1.1" 200 23649
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:19 +0530] "GET /JustOrganicOnlineProject/pic?productid=61 HTTP/1.1" 200 5777
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:19 +0530] "GET /JustOrganicOnlineProject/pic?productid=50 HTTP/1.1" 200 43217
+0:0:0:0:0:0:0:1 - - [15/May/2023:11:25:19 +0530] "GET /JustOrganicOnlineProject/pic?productid=55 HTTP/1.1" 200 16980
